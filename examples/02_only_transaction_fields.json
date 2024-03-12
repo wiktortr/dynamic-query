@@ -1,0 +1,126 @@
+{
+  "totalCount": 1000,
+  "filteredCount": 1000,
+  "records": [
+    {
+      "transactionId": 1,
+      "transactionAmount": 934.77,
+      "transactionFee": 6.00,
+      "transactionAddress": "323 Northridge Hill",
+      "transactionCountry": "China",
+      "transactionApprovalStatus": "pending",
+      "transactionApprovalDate": "2023-09-21 07:30:02",
+      "transactionDate": "2023-10-31 05:15:33",
+      "transactionStatus": "pending",
+      "transactionCategory": "Electronics"
+    },
+    {
+      "transactionId": 2,
+      "transactionAmount": 816.08,
+      "transactionFee": 4.81,
+      "transactionAddress": "0 6th Street",
+      "transactionCountry": "Indonesia",
+      "transactionApprovalStatus": "pending",
+      "transactionApprovalDate": "2023-11-20 18:40:10",
+      "transactionDate": "2023-06-27 08:54:45",
+      "transactionStatus": "pending",
+      "transactionCategory": "Toys"
+    },
+    {
+      "transactionId": 3,
+      "transactionAmount": 702.57,
+      "transactionFee": 7.79,
+      "transactionAddress": "24586 Carey Crossing",
+      "transactionCountry": "Russia",
+      "transactionApprovalStatus": "rejected",
+      "transactionApprovalDate": "2023-12-30 22:03:19",
+      "transactionDate": "2023-06-05 19:07:13",
+      "transactionStatus": "rejected",
+      "transactionCategory": "Kids"
+    },
+    {
+      "transactionId": 4,
+      "transactionAmount": 60.43,
+      "transactionFee": 6.87,
+      "transactionAddress": "02 Goodland Crossing",
+      "transactionCountry": "Philippines",
+      "transactionApprovalStatus": "pending",
+      "transactionApprovalDate": "2023-03-20 14:03:46",
+      "transactionDate": "2023-08-08 04:42:38",
+      "transactionStatus": "pending",
+      "transactionCategory": "Health"
+    },
+    {
+      "transactionId": 5,
+      "transactionAmount": 331.26,
+      "transactionFee": 6.29,
+      "transactionAddress": "3 Vera Lane",
+      "transactionCountry": "Indonesia",
+      "transactionApprovalStatus": "approved",
+      "transactionApprovalDate": "2023-08-28 07:59:04",
+      "transactionDate": "2023-12-04 17:06:19",
+      "transactionStatus": "rejected",
+      "transactionCategory": "Music"
+    },
+    {
+      "transactionId": 6,
+      "transactionAmount": 869.72,
+      "transactionFee": 9.02,
+      "transactionAddress": "6 Mayfield Parkway",
+      "transactionCountry": "Ukraine",
+      "transactionApprovalStatus": "pending",
+      "transactionApprovalDate": "2024-01-09 23:55:52",
+      "transactionDate": "2023-11-05 06:49:16",
+      "transactionStatus": "pending",
+      "transactionCategory": "Tools"
+    },
+    {
+      "transactionId": 7,
+      "transactionAmount": 369.11,
+      "transactionFee": 9.97,
+      "transactionAddress": "71156 Cascade Road",
+      "transactionCountry": "China",
+      "transactionApprovalStatus": "approved",
+      "transactionApprovalDate": "2023-12-19 06:30:37",
+      "transactionDate": "2023-04-17 15:33:42",
+      "transactionStatus": "pending",
+      "transactionCategory": "Grocery"
+    },
+    {
+      "transactionId": 8,
+      "transactionAmount": 255.86,
+      "transactionFee": 6.58,
+      "transactionAddress": "29 2nd Terrace",
+      "transactionCountry": "Morocco",
+      "transactionApprovalStatus": "rejected",
+      "transactionApprovalDate": "2023-03-14 00:00:11",
+      "transactionDate": "2023-09-27 14:56:01",
+      "transactionStatus": "rejected",
+      "transactionCategory": "Games"
+    },
+    {
+      "transactionId": 9,
+      "transactionAmount": 126.29,
+      "transactionFee": 2.66,
+      "transactionAddress": "3 Sunbrook Trail",
+      "transactionCountry": "Colombia",
+      "transactionApprovalStatus": "rejected",
+      "transactionApprovalDate": "2024-02-24 22:25:17",
+      "transactionDate": "2023-05-06 10:31:51",
+      "transactionStatus": "rejected",
+      "transactionCategory": "Baby"
+    },
+    {
+      "transactionId": 10,
+      "transactionAmount": 813.11,
+      "transactionFee": 7.07,
+      "transactionAddress": "609 Claremont Lane",
+      "transactionCountry": "Czech Republic",
+      "transactionApprovalStatus": "approved",
+      "transactionApprovalDate": "2023-10-22 06:27:02",
+      "transactionDate": "2023-07-23 20:37:49",
+      "transactionStatus": "rejected",
+      "transactionCategory": "Sports"
+    }
+  ]
+}
